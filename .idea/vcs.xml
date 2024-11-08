@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bge-large-zh-v1.5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bge-reranker-large" vcs="Git" />
   </component>
 </project>
